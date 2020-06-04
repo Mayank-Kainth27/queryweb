@@ -1,0 +1,16 @@
+.parent {
+    height: 500px;
+    background: rgba(193, 66, 66, 0.1);
+    text-align: center;
+}
+
+.answer-inp {
+    width: 70%;
+    padding: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    height: 50%;
+    overflow: auto;
+}
+

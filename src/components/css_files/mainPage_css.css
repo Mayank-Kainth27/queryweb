@@ -1,0 +1,81 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.parent-div {
+    height: 800px;
+}
+
+.child-div-1 {
+    height: 90%;
+    width: 45%;
+    background: white;
+    margin-top: 5%;
+    margin-left: 2%;
+    text-align: center;
+    overflow: scroll;
+}
+
+.child-div-2 {
+    height: 90%;
+    width: 45%;
+    background: white;
+    margin-top: 5%;
+    margin-right: 2%;
+    text-align: center;
+    overflow: scroll;
+}
+
+.parent-div-1 {
+    height: 80%;
+}
+
+.parent-div-2 {
+    height: 17%;
+}
+
+.ask-ques{
+    text-align: center;
+    padding-top: 5%;
+    margin-left: 7%;  
+    width: 40%;
+}
+
+.ans-ques{
+    text-align: center;
+    padding-top: 5%;
+    margin-right: 7%;  
+    width: 40%;
+}
+
+.a-text {
+    color: black
+}
+
+
+hr_clas{
+    width: 90%;
+    border-top: 2px solid black;
+    border-bottom: 5px solid rbga(0,0,0,0.5)
+
+}
+
+.main-t-col1 {
+    width: 20%;
+    height: 30%;
+    overflow: auto;
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+
+.main-t-col2 {
+    width: 80%;
+    height: 30%;
+    overflow: auto;
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+
+.main-table {
+    width: 100%;
+}

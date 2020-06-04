@@ -1,0 +1,59 @@
+.parent-ans {
+    height: 700px;
+    background: rgba(193, 66, 66, 0.1);
+    overflow: scroll;
+    text-align: center;
+}
+
+.parent-h {
+    margin-top: 3%;
+    font-family: fantasy;
+    font-weight: 700;
+}
+
+.parent-hr {
+    width: 60%;
+}
+
+.ques-tab {
+    padding: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    width: 80%;
+}
+
+.ques-1 {
+    padding: 15px;
+    width: 10%;
+    border-bottom: 4px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    overflow: scroll;
+}
+
+.ques-2 {
+    height: 50px;
+    width: 80%;
+    overflow: scroll;
+    border-bottom: 4px solid black;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.ques-3 {
+    padding: 15px;
+    border-bottom: 4px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ques-3-lnk {
+    color: blue;
+}
+
+.ques-2-div {
+    height: 100%;
+    overflow: scroll;
+    width: 740px;
+}
